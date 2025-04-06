@@ -37,12 +37,14 @@ font-weight: 500;
 .address {
     font-style: normal;
     text-decoration: none;
+    color: #434455;
     }
 .address:hover {color: #404BBF;}
 
 .telefon {
 font-style: normal;
 text-decoration: none;
+color: #434455;
 }
 
 .telefon:hover {color: #404BBF;}
@@ -64,16 +66,11 @@ text-decoration: none;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-background:#4D5AE5; }
-
-button {cursor: pointer;}
+background:#4D5AE5;
+cursor: pointer; }
 
 .button-order:hover {
-        background: #404BBF;
-    }
-
-
-
+        background: #404BBF; }
 .feature-title {
     font-weight: 500;
         font-size: 20px;
