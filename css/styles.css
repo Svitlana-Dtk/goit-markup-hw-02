@@ -39,7 +39,7 @@ font-weight: 500;
 font-style: normal;
 }
 
-.address {
+.contacts-link {
     font-weight: 400;
         font-size: 16px;
         /* line-height: 24px; */
@@ -49,21 +49,8 @@ font-style: normal;
     color: #434455;
     }
 
-.address:hover {color: #404BBF;}
-.address:focus {color: #404BBF;}
-
-.telefon {
-    font-weight: 400;
-        font-size: 16px;
-        /* line-height: 24px; */
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-text-decoration: none;
-color: #434455;
-}
-
-.telefon:hover {color: #404BBF;}
-.telefon:focus {color: #404BBF;}
+.contacts-link:hover {color: #404BBF;}
+.contacts-link:focus {color: #404BBF;}
 
 .section-solutions {
     background: #2E2F42;}
@@ -71,7 +58,7 @@ color: #434455;
 .solutions-title {font-weight: 700;
     font-size: 56px;
     /* line-height: 60px; */
-    line-height: 1.11;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #FFFFFF;
@@ -88,6 +75,7 @@ cursor: pointer; }
 
 .button-order:hover {
         background: #404BBF; }
+.button-order:focus {background: #404BBF;}
 
         .feature-list {
             background-color: #FFFFFF
